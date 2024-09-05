@@ -21,3 +21,4 @@ This Python script, `weather_info.py`, fetches real-time weather data for any ci
 2. Install the `requests` library by running:
    ```bash
    pip install requests
+3. Run the script, input the city name, and get the current weather data in a JSON format.
